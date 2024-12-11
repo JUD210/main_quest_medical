@@ -1,4 +1,4 @@
-# Main Quest 09 - Medical U-Net
+# Main Quest - Medical U-Net
 
 ## 팁 공유
 
